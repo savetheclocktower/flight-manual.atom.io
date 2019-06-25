@@ -253,14 +253,14 @@ Here's the full list of supported variables:
 * `CURRENT_YEAR`: The current four-digit year.
 * `CURRENT_YEAR_SHORT`: The last two digits of the current year.
 * `CURRENT_MONTH`: The current month as a two-digit, zero-padded number (between `01` and `12`).
-* `CURRENT_MONTH_NAME`: The full name of the month in English (e.g., `November`).
-* `CURRENT_MONTH_NAME_SHORT`: The abbreviated name of the month in English (e.g., `Nov`).
-* `CURRENT_DATE`: The day of the month as a two-digit, zero-padded number (e.g., `07` or `31`).
-* `CURRENT_DAY_NAME`: The day of the week in English (e.g., `Wednesday`).
-* `CURRENT_DAY_NAME_SHORT`: The abbreviated day of the week in English (e.g., `Wed`).
-* `CURRENT_HOUR`: The current hour in 24-hour clock format (e.g., `09`, `22`).
-* `CURRENT_MINUTE`: The current minute (e.g., `01`, `58`).
-* `CURRENT_SECOND`: The current second (e.g., `09`, `42`).
+* `CURRENT_MONTH_NAME`: The full name of the month in English (for example: `November`).
+* `CURRENT_MONTH_NAME_SHORT`: The abbreviated name of the month in English (for example: `Nov`).
+* `CURRENT_DATE`: The day of the month as a two-digit, zero-padded number (for example: `07` or `31`).
+* `CURRENT_DAY_NAME`: The day of the week in English (for example: `Wednesday`).
+* `CURRENT_DAY_NAME_SHORT`: The abbreviated day of the week in English (for example: `Wed`).
+* `CURRENT_HOUR`: The current hour in 24-hour clock format (for example: `09`, `22`).
+* `CURRENT_MINUTE`: The current minute (for example: `01`, `58`).
+* `CURRENT_SECOND`: The current second (for example: `09`, `42`).
 
 {{#note}}
 
